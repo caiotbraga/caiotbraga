@@ -2,12 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/caiotbraga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiotbraga&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiotbraga&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="199em" src="https://github-readme-stats.vercel.app/api?username=caiotbraga&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="199em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiotbraga&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<img height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+<img height = "39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height = "39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
 
 ##
 
